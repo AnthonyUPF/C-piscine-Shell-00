@@ -180,3 +180,28 @@ Crea un archivo `z` que, cuando se ejecute un `cat` sobre él, muestre "Z" segui
   ```
   %>diff a b > sw.diff
   ```
+
+## Ejercicio 08: clean
+
+**Directorio de entrega**: `ex08/`
+
+**Archivos a entregar**: `clean`
+
+**Funciones autorizadas**: Ninguna
+
+### Instrucciones
+- Escriba en un archivo `clean` una línea de comandos que busque, a partir del directorio actual y en todos sus subdirectorios, los archivos cuyo nombre se termine por ~, o empiece y se termine por #.
+- La línea de comandos mostrará y borrará los archivos encontrados.
+- Solo se autoriza un comando: nada de ’;’ , ’&&’ ni otros trucos.
+
+## Ejercicio 09: Illusions, not tricks, Michael...
+
+**Directorio de entrega**: `ex09/`
+
+**Archivos a entregar**: `ft_magic`
+
+**Funciones autorizadas**: Ninguna
+
+### Instrucciones
+- Crea un archivo mágico que se llame `ft_magic` que tendrá que estar formateado correctamente para detectar los archivos de tipo `42 file` y constituidos por la cadena "42" en el byte 42º.
+
