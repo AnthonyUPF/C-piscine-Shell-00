@@ -119,7 +119,7 @@ Crea un archivo `z` que, cuando se ejecute un `cat` sobre él, muestre "Z" segui
 - Crea un script de shell que muestre en pantalla los id de los últimos 5 commits de tu repositorio git.
   
 - Ejemplo:
-  ```bash
+  ```
   %> bash git_commit.sh | cat -e
   baa23b54f0adb7bf42623d6d0a6ed4587e11412a$
   2f52d74b1387fa80eea844969e8dc5483b531ac1$
